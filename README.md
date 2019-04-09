@@ -1,7 +1,7 @@
 ## introduction
 
 # This script is used to convert PX and EM into REM , Based on 1rem=100px and 1rem/1em =100px/16px .
-# 将px单位转换为rem，并按照1rem=100px 和 1em=16/100px的换算关系，进行对应位置数值转换 ；
+# 将px和em单位转换为rem，并按照1rem=100px 和 1em=16/100px的换算关系，进行对应位置数值转换 ；
 
 ## 1 安装运行环境
 
