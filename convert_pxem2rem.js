@@ -22,7 +22,7 @@ fs.readFile('jquery-ui.css', function(err, data) {
 
 		if( $0.indexOf("em")>-1 ){ //初始单位是em的
 			wanted_Num = ($1/1)*(16/100)  + 'rem'; 
-			//换算标准：1rem:1em =100px:16px ,默认一个em=16px
+			//换算标准：1rem/1em =100px/16px ,默认一个em=16px
 			em_num++;
 			console.log("============ 这里是em ================= wanted_Num:" , wanted_Num );
 		}else{
