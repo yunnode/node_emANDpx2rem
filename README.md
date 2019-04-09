@@ -5,7 +5,7 @@
 
 ## 1 安装运行环境
 
-### 1.1 安装Node.js 8.x版本
+### 1.1 安装Node.js version>=8.x版本
 
 [Node.js 官网地址](http://nodejs.org/)
 
